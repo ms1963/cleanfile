@@ -1,6 +1,3 @@
-# cleanfile
-A program to clean files from unvisible characters, unwanted formatting, and correction of newline characters to the target OS used
-
 # File Cleaner - Advanced Text Processing Tool
 
 A powerful Go-based command-line utility for cleaning and processing text files. Remove invisible characters, strip formatting, normalize line endings, and ensure your files are clean and consistent across platforms.
