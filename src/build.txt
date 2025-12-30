@@ -1,0 +1,3 @@
+To run or build cleanfile
+use: go run cleanfile.go [options]
+or:  go build -o cleanfile cleanfile.go and then ./cleanfile [options]
